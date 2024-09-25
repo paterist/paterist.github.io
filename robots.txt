@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paterist.github.io/sitemap.paterist.gz
+Sitemap: https://paterist.github.io/app/sitemap.paterist.gz
+Sitemap: https://paterist.github.io/assets/sitemap.paterist.gz
+Sitemap: https://paterist.github.io/css/sitemap.paterist.gz
+Sitemap: https://paterist.github.io/data/sitemap.paterist.gz
+Sitemap: https://paterist.github.io/includes/sitemap.paterist.gz
+Sitemap: https://paterist.github.io/item/sitemap.paterist.gz
+Sitemap: https://paterist.github.io/src/sitemap.paterist.gz
